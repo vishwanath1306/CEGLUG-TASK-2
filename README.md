@@ -25,5 +25,7 @@ If the fruit is rotten, declare price as 0.00</li><br>
 Convert it to <b>t for true, f for false</b>.</li>
 </ol>
 
-<h4>Once cleaned the data must be neatly organised in a file data.csv</h4>
+<h4>Once cleaned the data must be neatly organised in a file data.csv. It must be organised
+in the format ID,Name,Price,Rotten</h4>
+
 <h5>BONUS: Try to plot a line graph between price of fruit and ID of the fruit using MatPlotLib library</h5>
